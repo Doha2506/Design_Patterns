@@ -1,0 +1,6 @@
+# Visual Studio 2015
+.vs/
+.git/
+
+Payment_System/bin
+Payment_System/obj

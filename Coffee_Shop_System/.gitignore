@@ -1,0 +1,6 @@
+# Visual Studio 2015
+.vs/
+.git/
+
+Coffee_Shop_System/bin
+Coffee_Shop_System/obj

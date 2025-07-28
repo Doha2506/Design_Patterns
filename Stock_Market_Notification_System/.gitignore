@@ -1,0 +1,6 @@
+# Visual Studio 2015
+.vs/
+.git/
+
+Stock_Market_Notification_System/bin
+Stock_Market_Notification_System/obj

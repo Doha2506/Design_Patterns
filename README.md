@@ -3,3 +3,5 @@
 1- Strategy Pattern ( Payment System )
 
 2- Decorator Pattern ( Coffee Shop System )
+
+3- Observer Pattern ( Stock Market Notification System )
